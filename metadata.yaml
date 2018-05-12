@@ -1,0 +1,43 @@
+_repo: Selbstbetrachtungen_15028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marcus Aurelius, Emperor of Rome
+    aliases:
+    - Antoninus, Marcus Aurelius
+    - Aurel, Marc
+    birthdate: 121
+    deathdate: 180
+    gutenberg_agent_id: '998'
+    url: http://www.gutenberg.org/2009/agents/998
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
+  editor:
+    agent_name: Gleichen-Russwurm, Alexander, Freiherr von
+    aliases:
+    - Von Gleichen-Russwurm, Alexander, Freiherr
+    - Russwurm, Alexander von Gleichen-, Freiherr
+    - Gleichen-Russwurm, A. von (Alexander)
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '37012'
+    url: http://www.gutenberg.org/2009/agents/37012
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2005-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15028'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stoics'
+- !lcsh 'Ethics'
+- !lcc 'B'
+- !lcsh 'Life'
+title: Selbstbetrachtungen
+url: http://www.gutenberg.org/ebooks/15028
