@@ -11,6 +11,7 @@ Title: Selbstbetrachtungen
 Author: Marc Aurel
 
 Release Date: February 12, 2005 [EBook #15028]
+[Last updated: January 13, 2018]
 
 Language: German
 
@@ -328,7 +329,7 @@ schmeicheln konnten, zu gleicher Zeit die größte Ehrfurcht einflößte.
 Seine Anleitung, die zum Leben notwendigen Grundsätze aufzufinden und
 näher zu gestalten, war eine durchaus verständliche. Niemals zeigte er
 eine Spur von Zorn oder einer andern Leidenschaft, sondern er war der
-leidenschaftsloseste und der hingebendste Mensch zugleich Er suchte Lob,
+leidenschaftsloseste und der hingebendste Mensch zugleich. Er suchte Lob,
 aber ein geräuschloses; er war hochgelehrt, aber ohne Prahlerei.
 
 10. Von Alexander, dem Grammatiker lernte ich, wie man sich jeglicher
@@ -356,7 +357,7 @@ zu bringen. Wie man von seinen Lehrern stark eingenommen sein kann, sah
 ich an ihm; ebenso aber auch, wie lieb man seine Kinder haben müsse.
 
 14. An meinem Bruder Severus hatte ich häuslichen Sinn, Wahrheits- und
-Gerechtigkeitsliebe zu bewundern Er machte mich mit Thraseas, Helvidius,
+Gerechtigkeitsliebe zu bewundern. Er machte mich mit Thraseas, Helvidius,
 Cato, Dio und Brutus bekannt und führte mich zu dem Begriff eines
 Staates, in welchem alle Bürger gleich sind vor dem Gesetz, und einer
 Regierung, die nichts so hoch hält als die bürgerliche Freiheit.
@@ -582,7 +583,7 @@ Freimut und Gerechtigkeit zu üben, und dir dabei alle Nebengedanken
 fernzuhalten. Und du wirst sie dir fernhalten, sobald du jede deiner
 Handlungen als die letzte im Leben ansiehst: fern von jeder
 Unbesonnenheit und der Erregtheit, die dich taub macht gegen die Stimme
-der richtenden Vernunft, frei von Verstellung von Selbstliebe und von
+der richtenden Vernunft, frei von Verstellung, von Selbstliebe und von
 Unwillen über das, was das Schicksal dir beschieden hat.--Du siehst, wie
 wenig es ist, was man sich aneignen muß, um ein glückliches, ja
 göttliches Leben zu führen. Denn auch die Götter verlangen nicht mehr
@@ -690,7 +691,7 @@ sich kümmert, auch um das, woran sonst niemand denkt, der nicht aufhört
 über die Vorgänge in der Seele des Nächsten seine Gedanken zu machen und
 nicht begreifen mag, daß es genug ist, für den Gott in der eignen Brust
 zu leben und ihm zu dienen, wie sich´s gebührt. Das aber ist sein
-Dienst: ihn rein zu erhalten von Leidenschaft von Unbesonnenheit und von
+Dienst: ihn rein zu erhalten von Leidenschaft, von Unbesonnenheit und von
 Unlust über das, was von Göttern und Menschen geschieht. Denn die
 Handlungen der Götter zu ehren, gebietet die Tugend, und mit denen der
 Menschen sich zu befreunden die Gleichheit der Abkunft, obwohl die
@@ -842,7 +843,7 @@ Beobachtung seiner selbst. Man muß alles Eitle und Vergebliche aus der
 Kette der Gedanken zu entfernen suchen, vorzüglich alle müßige und
 nichtswürdige Neugier, und sich nur an solche Gedanken gewöhnen, über
 die wir sofort, wenn uns jemand fragt, was wir gerade denken, gern und
-mit aller Offenheit Rechenschaft geben können, so daß man gleicht sieht:
+mit aller Offenheit Rechenschaft geben können, so daß man gleich sieht:
 hier ist alles lauter und gut und so, wie es einem Gliede der
 menschlichen Gesellschaft geziemt, hier wohnt nichts von Genußsucht und
 Lüsternheit, nichts von Zank oder Neid oder Mißtrauen, nichts von alle
@@ -988,7 +989,7 @@ in welchem Zusammenhang sie erscheinen und welche Stelle sie in
 demselben einnehmen, welchen Wert sie für das Ganze haben und was sie
 dem Menschen bedeuten, diesem Bürger eines höchsten Reiches, zu dem sich
 die übrigen Reiche wie die einzelnen Häuser zu der ganzen Ortschaft
-verhalten daß man weiß, was man jedesmal vor sich hat, wo es sich
+verhalten, daß man weiß, was man jedesmal vor sich hat, wo es sich
 herschreibt und wie lange es bestehen wird, und wie sich der Mensch dazu
 zu verhalten habe, ob milde oder tapfer, zweifelsüchtig oder vertrauend
 voll, hingebend oder auf sich selbst beruhend; so daß man sich von jedem
@@ -1103,7 +1104,7 @@ sobald wir nur etwas von dem in uns tragen, was wir nur anzuschauen
 brauchen, um uns in eine vollkommen ruhige und glückliche Stimmung
 versetzt zu sehn--eine Stimmung, die nach meiner Ansicht freilich ein
 anständiges, sittliches Wesen bedingt. Auf diese Weise also ziehe dich
-beständig zurück, um dich immer wieder auf zufrischen. Einfach und klar
+beständig zurück, um dich immer wieder aufzufrischen. Einfach und klar
 und bestimmt aber seien jene Ideen, die aus deiner Seele so manches
 hinweg spülen, wenn du sie dir vergegenwärtigst, und dir eine Zuflucht
 schaffen sollen, aus der du nicht übel launisch zurückkehrst. Und was
@@ -1702,7 +1703,7 @@ gestehen müssen, daß vieles andere mehr in deiner Natur liegt. Und dies
 ist es nun, was du vor allem pflegen und kundgeben mußt, z.B. deine
 Lauterkeit und deinen Ernst, deine Sündhaftigkeit und deine Abneigung
 gegen sinnlichen Genuß, deine Zufriedenheit mit deinem Schicksal, deine
-Mäßigkeit, Güte, Freisinnigkeit Einfachheit, dein gesetztes würdevolles
+Mäßigkeit, Güte, Freisinnigkeit, Einfachheit, dein gesetztes würdevolles
 Wesen. Und fühlst du nicht, was du alles hättest sein können? was deine
 Natur und angeborenes Geschick so wohl zugelassen hätten, und bist es
 dennoch schuldig geblieben? Oder war es die Mannhaftigkeit deiner
@@ -1822,7 +1823,7 @@ Menschen, der sich in seinen Ansichten gleich bliebe. Ferner was nun die
 "Güter" dieses Lebens anlangt, wie vergänglich und nichtig sind sie!
 Können sie doch das Eigentum jedes Nichtswürdigen werden! Aber nicht
 minder elend steht es mit dem Geist der Zeit. Selbst die beste seiner
-Äußerungen, welche Mühe hat man sie, zu ertragen, ja es kostet nicht
+Äußerungen, welche Mühe hat man sie zu ertragen, ja es kostet nicht
 wenig, sich selber zu ertragen. Bei solcher Taubheit und Verkommenheit
 der Zustände, bei diesem ewigen Wechsel des Wesens und der Form, bei
 dieser Unberechenbarkeit der Richtung, die die Dinge nehmen--was da der
@@ -2014,7 +2015,7 @@ nichts dafür, wenn seine Nähe dir widerwärtig ist. Ebenso betrachte nun
 auch die sittlichen Mängel. Allein der Mensch, sagst du, hat seine
 Vernunft, und kann erkennen, was ihm fehlt. Sehr richtig. Folglich hast
 du deine Vernunft auch und kannst durch dein vernünftiges Verhalten
-deinen Nächsten zur Vernunft bringen, kannst dich ihm offenbaren ihn
+deinen Nächsten zur Vernunft bringen, kannst dich ihm offenbaren, ihn
 erinnern, und so, wenn er dich hört, ihn heilen, ohne daß du nötig
 hättest zu zürnen oder zu seufzen oder hoffärtig zu sein.
 
@@ -2050,7 +2051,7 @@ du bis dahin keinem unter ihnen auf ungebührliche Weise begegnet bist
 mit Wort und Werk. Erinnere dich, was du schon durchgemacht, und was du
 imstande gewesen bist zu tragen. Wie leicht ist´s möglich, daß die
 Geschichte deines Lebens bereits vollendet, dein Dienst vollbracht ist;
-und wie viel Schönes hast du schon gesehen wie oft ist´s dir vergönnt
+und wie viel Schönes hast du schon gesehen, wie oft ist´s dir vergönnt
 gewesen, Freud und Leid gering zu achten, deinen Ehrgeiz zu unterdrücken
 und gegen Unverständige verständig zu sein!
 
@@ -2577,7 +2578,7 @@ aber um gar nichts, was wir jedoch nicht glauben dürfen--und was würde
 dann aus unsern Opfern, unsern Gebeten, unsern Eidschwüren und aus alle
 dem, was wir lediglich in der Voraussetzung zu tun pflegen, daß die
 Götter da sind und daß sie mit uns leben?--aber gesetzt, sie kümmerten
-sich nicht um meine Angelegenheiten so liegt es doch mir selbst ob, mich
+sich nicht um meine Angelegenheiten, so liegt es doch mir selbst ob, mich
 darum zu kümmern. Denn dazu habe ich meine Vernunft daß ich weiß, was
 mir dienlich ist.
 
@@ -3145,7 +3146,7 @@ Atome trennen und die empfindungslosen Elemente sich zerstreuen.
 
 51
 
-"Durch Essen, Trinken und durch andres Gaukelwerk Sind wir bemüht, den
+"Durch Essen, Trinken und durch andres Gaukelwerk sind wir bemüht, den
 Tod uns fern zu halten. Doch müssen wir den Fahrwind, der von oben
 streicht, Sei´s auch zu unserm Leid, hinnehmen ohne Weh."
 
@@ -3396,7 +3397,7 @@ solcher Strich durch deine Rechnung ist nur heilsam. Genügen muß es dir
 nun, von jetzt an so zu leben, wie es deine Natur vorschreibt. Achte
 also darauf, was sie will, und laß dich durch nichts davon abbringen. Du
 hast so manches versucht, dich hierhin und dorthin gewendet, aber
-nirgends dein Glück gefunden, nicht im Spekulieren nicht im Reichtum,
+nirgends dein Glück gefunden, nicht im Spekulieren, nicht im Reichtum,
 nicht in der Ehre, nicht in der Sinnenlust, nirgends. Wo ist es denn nun
 wirklich? Nur im Tun dessen, was die menschliche Natur begehrt. Und wie
 gelangt man dazu? Dadurch, daß man die Grundsätze festhält, aus denen
@@ -3444,7 +3445,7 @@ offenherzige Art.
 6
 
 Es ist Aufgabe der großen Natur, das Vorhandene von einer Stelle zur
-anderen zu versetzen, es umzumodeln wegzuräumen und neu einzupflanzen.
+anderen zu versetzen, es umzumodeln, wegzuräumen und neu einzupflanzen.
 Alles ist Wechsel! Man darf also das Neue nicht bang erwarten. Alles ist
 Gewohnheit, aber auch alles gleichmäßig verteilt.
 
@@ -3574,7 +3575,7 @@ Licht, wenn es brennt und wenn es verlischt?
 20
 
 Drehe einmal das Innere deines Körpers nach außen und sieh, welcher Art
-es ist, wenn Alter, Krankheit Ausschweifung ihn aufreiben! Kurz dauert
+es ist, wenn Alter, Krankheit, Ausschweifung ihn aufreiben! Kurz dauert
 sowohl das Leben dessen, der lobt, als dessen, der gelobt wird, dessen,
 der eines anderen gedenkt und dessen gedacht wird. Überdies geschieht
 dies ja nur in einem kleinen Winkel der Erde und selbst da stimmen nicht
@@ -3846,7 +3847,7 @@ gehandelt--freundlichen Sinnes gegen die, die dich gehindert!
 48
 
 Die Seele des Menschen ist unangreifbar, wenn sie in sich gesammelt
-daran sich genügen laßt, daß sie nichts tut, was sie nicht will, auch
+daran sich genügen läßt, daß sie nichts tut, was sie nicht will, auch
 wenn sie sich einmal unvernünftigerweise widersetzen sollte, am meisten
 aber, wenn sie jederzeit mit Vernunft zu Werke geht. Darum, sage ich,
 ist die leidenschaftslose Seele eine wahre Burg und Festung. Denn der
@@ -3959,13 +3960,13 @@ nicht aus. Ebenso müssen nun die Ausstrahlungen der Seele sein, kein
 Ausgießen, sondern ein sich Ausdehnen, kein heftiges und stürmisches
 Aufprallen auf die sich entgegenstellenden Dinge, aber auch kein
 Herabgleiten von ihnen, sondern ein Beharren und Erleuchten alles
-dessen, was ihre Strömung begegnet, und so, als beraube jegliches Ding
+dessen, was ihrer Strömung begegnet, und so, als beraube jegliches Ding
 sich selbst ihres Glanzes, wenn es ihn nicht empfängt.
 
 
 58
 
-Wer sich vor dem Tode fürchtet, fürchtet sich entwedervor dem Erlöschen
+Wer sich vor dem Tode fürchtet, fürchtet sich entweder vor dem Erlöschen
 jeglicher Empfindung, oder vor einem Wechsel des Empfindens. Aber wenn
 man gar nichts mehr fühlt, ist auch ein Schmerz nicht mehr möglich.
 Erhalten wir aber ein anderes Fühlen, so werden wir andere Wesen, hören
@@ -4068,7 +4069,7 @@ genau an, von denen du dich trennen mußt, und dann in ethischer
 Beziehung, welch ein Elend, womit du einst nicht mehr verflochten sein
 wirst! Zwar ist es keineswegs nötig, sich daran zu stoßen, Pflicht ist
 es vielmehr, es zu lindern oder ruhig zu ertragen, allein man darf doch
-daran denken, daß es nicht eine Trennung gilt von gleichgesinnten
+daran denken, daß es nicht eine Trennung gibt von gleichgesinnten
 Menschen. Denn dies wäre das einzige, was uns rückwärts ziehen und an
 das Leben fesseln könnte, wenn es uns vergönnt wäre, mit Menschen
 zusammenzuleben, die von denselben Grundsätzen und Ideen beseelt sind
@@ -4398,7 +4399,7 @@ aber gar nicht vergangen.
 
 Entweder ist ein denkendes Wesen die Urquelle des ganzen Weltalls, von
 der aus dem All als einem Körper alles zuströmt. Dann darf sich der Teil
-über das, was zum Nutzen des Ganzen geschieht, nicht beklagen Oder das
+über das, was zum Nutzen des Ganzen geschieht, nicht beklagen, Oder das
 All ist ein Gewirr von Atomen, zufällig gemischt und zufällig getrennt.
 Wozu dann deine Unruhe? Sprich nur zu deiner Vernunft: "Du bist tot,
 schon in Verwesung und wie ein Tier, das auf die Weide geht und seinen
@@ -4508,7 +4509,7 @@ schönen, jenes Wesens, das alles dasjenige erzeugt und zusammenhält und
 umgibt und in sich faßt, was, wenn es sich auflöst, der Grund zur
 Entstehung eines anderen von ähnlicher Beschaffenheit wird? Wirst du
 mit einem Worte wohl einmal eine Seele sein, die mit Göttern und
-Menschen so verkehrt, daß du weder an ihnen etwas auszusehen hast, noch
+Menschen so verkehrt, daß du weder an ihnen etwas auszusetzen hast, noch
 daß sie dich beschuldigen können?
 
 
@@ -4576,7 +4577,7 @@ Mitbürger beglückenden Tat zur anderen fortschreitet und mit Freuden
 
 7
 
-Alle Teile des Ganzen, das heißt die vom Weltraum umschlossenen Dinge
+Alle Teile des Ganzen, das heißt die vom Weltraum umschlossenen Dinge,
 müssen notwendig zerstört oder mit einem richtigen Ausdruck umgewandelt
 werden. Wäre nun dies von Natur aus ein Übel für sie, so stünde das
 Ganze bei dem steten Wechsel der Teile und ihrem vorausbestimmten
@@ -4610,9 +4611,9 @@ in der Tat für einen nichtigen Einwurf gegen meine Behauptung.
 Hast du die Namen: gut, ehrfürchtig, wahrhaft, verständig, gleichmütig,
 hochherzig dir beigelegt, so sorge dafür, daß du sie nie verlierst oder
 immer bald wieder erwirbst. Aber bedenke auch, was sie besagen!
-Verstand--ein sorgsam erworbenes, gründliches Wissen um einzelnes?
+Verstand--ein sorgsam erworbenes, gründliches Wissen um Einzelnes?
 Gleichmut--ein bereitwilliges Aufnehmen des von der Natur uns
-Zuerkannten? Hochherzigkeit--ein Erhabensein des Geistes über jede leise
+Zuerkannten; Hochherzigkeit--ein Erhabensein des Geistes über jede leise
 oder laute Regung im Fleisch, über das, was man Ehre nennt, auch über
 den Tod und alles dieses. Vermagst du nun, dich diesen Namen zu
 erhalten, ohne doch gerade danach zu streben, daß andere dich bei ihnen
@@ -4628,7 +4629,7 @@ denselben Zähnen. Also tauche dein Wesen in jene wenigen Namen. Und wenn
 du es nur irgend ermöglichen kannst, halte bei ihnen aus, wie einer, der
 auf den Inseln der Seligen gelandet. Merkst du aber, daß man dich
 heraustreiben will und daß du nicht obsiegen wirst, so ziehe dich eilig
-in einen Winkel zurück wo du dich wahren kannst? oder--verlasse das
+in einen Winkel zurück wo du dich wahren kannst; oder--verlasse das
 Leben!--Um jener Namen eingedenk zu bleiben, ist es kein schlechtes
 Hilfsmittel, sich die Götter vorzuhalten, die nicht sowohl begehren, daß
 man sie schmeichelnd verehre, als daß alle vernunftbegabten Wesen ihnen
@@ -4702,7 +4703,7 @@ du vergessen, was das für Leute sind, die ewig nur zu loben oder zu
 tadeln wissen? wie sie´s treiben auf ihrem Lager, bei Tafel, überall,
 was es für Diebe und Räuber sind, nicht äußerlich mit Händen und Füßen,
 sondern innerlich an dem kostbarsten Teile ihres Wesens, mit dem sie
-sich doch, wenn sie wollten, Glauben, Ehrfurcht Wahrheit, Sitte, den
+sich doch, wenn sie wollten, Glauben, Ehrfurcht, Wahrheit, Sitte, den
 guten Genius zu eigen machen könnten.
 
 
@@ -4768,7 +4769,7 @@ eben geschehen soll. Ich also sage zu ihm: deine Liebe ist auch meine.
 22
 
 Entweder du lebst hier, wie du gewohnt bist, oder du kommst anderswohin,
-wie du am Ende auch gewollt oder du stirbst und hast ausgedient. Das ist
+wie du am Ende auch gewollt, oder du stirbst und hast ausgedient. Das ist
 alles. Drum sei guten Muts!
 
 
@@ -5175,7 +5176,7 @@ in seinen Augen.
 
 16
 
-Wahrhaft gut zu leben--das ist eine Kraft und Fertigkeit der Seele? und
+Wahrhaft gut zu leben--das ist eine Kraft und Fertigkeit der Seele; und
 sie verfügt darüber, wenn sie gegen das, was gleichgültig ist, sich
 wirklich auch gleichgültig verhält. Diese Gleichgültigkeit aber beruht
 wieder darauf, daß man die Dinge sich genau und von allen Seiten
@@ -5195,7 +5196,7 @@ gestattet, sein eigenes Wohl zu suchen.
 
 Untersuche, woher jedes Ding seinen Ursprung nimmt und aus welchen
 Stoffen es besteht und in welche Form es sich verwandelt, wozu es durch
-die Umwandlung wird und daß ihm damit kein kein Übel widerfährt.
+die Umwandlung wird und daß ihm damit kein Übel widerfährt.
 
 
 18
@@ -5212,7 +5213,7 @@ verrichten sie ihre Handlungen? Drittens, daß man bedenkt, daß alle, die
 unvernünftig handeln, unfreiwillig und unwissend so handeln--und Schmerz
 genug für sie liegt schon darin, daß sie eben Ungerechte, Undankbare,
 Geizige oder mit einem Worte Übeltäter heißen. Ferner, daß auch du so
-manchen Fehler hast und von derselben Art bist wie sie? daß, wenn du
+manchen Fehler hast und von derselben Art bist wie sie; daß, wenn du
 dich von gewissen Vergnügungen fern gehalten hast--vielleicht war´s
 Feigheit oder Ehrgeiz oder etwas dem Ähnliches, was dich fernhielt--du
 doch auch den Charakter hast, aus dem jene Vergehungen entspringen.
@@ -5676,7 +5677,7 @@ Folgende drei Grundsätze mußt du stets vor Augen haben: Erstens nämlich
 in Ansehung dessen, was du tust, nie ohne Grund noch anders zu
 verfahren, als die Gerechtigkeit selbst verfahren haben würde; in
 Ansehung dessen aber, was dir von außen zustößt, mag es nun von einem
-glücklichen Zufall oder von der Vorsehung herrühren, dich weder über den
+unglücklichen Zufall oder von der Vorsehung herrühren, dich weder über den
 Zufall zu beschweren, noch die Vorsehung anzuklagen. Zweitens, bei jedem
 Wesen darauf zu achten, wie es von seiner Empfängnis an bis zu seiner
 Beseelung und von seiner Beseelung an bis zu seiner Entseelung
@@ -5688,7 +5689,7 @@ derselben wahrnehmen und zugleich den ganzen Umkreis luftiger und
 ätherischer Wesen mit /einem/ Blicke überschauen könntest, daß du
 dennoch, sage ich, sooft du emporgerückt würdest, immer wieder dasselbe,
 nämlich alles gleichförmig und kurzdauernd finden müßtest. Und hierauf
-dürftest du stolz sein?
+dürftest du stolz sein.
 
 
 25
